@@ -1,2 +1,2 @@
-Git Is a version control system
-Gis Is Free software
+git Is a version control system
+修改后提交
