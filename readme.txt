@@ -6,3 +6,4 @@ Git tracks changes of fileｉ
 Creating a new branch is quick and simple.
 new commit
 修改ｂｕｇ
+工作一半暂停
