@@ -5,3 +5,4 @@ git Is a version control system
 Git tracks changes of fileｉ
 Creating a new branch is quick and simple.
 new commit
+修改ｂｕｇ
